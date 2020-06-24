@@ -1,6 +1,6 @@
 ### 插件功能介绍
 
-此插件提供一个Chrome扩展，当您在https://sale.aliexpress.com/上时，页面上将会显示几个功能按钮。他们可以将该页面的产品信息快速导入到您的nopCommerce店铺中。
+此插件提供一个Chrome扩展，当您在[https://sale.aliexpress.com/](https://sale.aliexpress.com/)上时，页面上将会显示几个功能按钮。他们可以将该页面的产品信息快速导入到您的nopCommerce店铺中。
 
 **使用步骤：**
 

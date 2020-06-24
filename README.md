@@ -1,6 +1,6 @@
 ### Introduction to the plug-in function
 
-This plugin provides a Chrome extension. When you are on https://sale.aliexpress.com/, several function buttons will be displayed on the page. They can quickly import product information from this page into your nopCommerce store.
+This plugin provides a Chrome extension. When you are on [https://sale.aliexpress.com/](https://sale.aliexpress.com/), several function buttons will be displayed on the page. They can quickly import product information from this page into your nopCommerce store.
 
 **Steps for usage:**
 

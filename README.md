@@ -1,9 +1,9 @@
 ### Introduction to the plug-in function
 
--Copy products from AliExpress to your nopCommerce website
--Chrome extension supports `English` and `Simplified Chinese`
--Product information contains seo related information, product attributes, features, product descriptions, product pictures
--When your store already has AliExpress products in front of you, it will show `Update`, `Edit`, `View` buttons
+- Copy products from AliExpress to your nopCommerce website 
+- Chrome extension supports `English` and `Simplified Chinese`  
+- Product information contains seo related information, product attributes, features, product descriptions, product pictures  
+- When your store already has AliExpress products in front of you, it will show `Update`, `Edit`, `View` buttons  
 
 ### nopCommerce plugin configuration
 

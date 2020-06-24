@@ -1,18 +1,21 @@
 ### Introduction to the plug-in function
 
 This plugin provides a Chrome extension. When you are on https://sale.aliexpress.com/, several function buttons will be displayed on the page. They can quickly import product information from this page into your nopCommerce store.
-Steps for usage:
-1. Install this plugin on the nopCommerce plugin market
-2. Configure security access token for chrome extension
-3. Install the extension in chrome and click the icon to configure your nop site address and security access token
-4. Import/update/edit your product information on the aliexpress website
 
-note:
+**Steps for usage:**
+
+1. Install this plugin on the nopCommerce plugin market	
+2. Configure security access token for chrome extension	
+3. Install the extension in chrome and click the icon to configure your nop site address and security access token	
+4. Import/update/edit your product information on the aliexpress website	
+
+**note:**
+
 1. The pictures in the current product description are still linked to aliexpress
 2. After the product is imported, it is not released by default. You need to publish it to preview it.
 3. SKU multi-attribute price is not set, you need to price according to your sales strategy
 
-Feature list:	
+**Feature list:**
 
 - Copy products from AliExpress to your nopCommerce website	
 - Chrome extension supports `English` and `Simplified Chinese`	

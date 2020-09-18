@@ -1,3 +1,5 @@
+[**Buy Now**](https://www.codester.com/items/25824/dropshipping-aliexpress-nopcommerce-plugin)
+
 ### Introduction to the plug-in function
 
 This plugin provides a Chrome extension. When you are on [https://sale.aliexpress.com/](https://sale.aliexpress.com/), several function buttons will be displayed on the page. They can quickly import product information from this page into your nopCommerce store.
@@ -48,3 +50,5 @@ This plugin provides a Chrome extension. When you are on [https://sale.aliexpres
 ![](Assets/spec-attrs.png)
 ![](Assets/sku-props-img.png)
 ![](Assets/product-desc.png)
+
+[**Buy Now**](https://www.codester.com/items/25824/dropshipping-aliexpress-nopcommerce-plugin)

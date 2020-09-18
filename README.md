@@ -7,7 +7,7 @@ This plugin provides a Chrome extension. When you are on [https://sale.aliexpres
 **Steps for usage:**
 
 1. Install this plugin on the nopCommerce plugin market	
-2. Configure security access token for chrome extension	
+2. Configure security access token for [chrome extension](https://github.com/cabbage89/Nop.Plugin.DropShipping.AliExpress.ChromeExt)	
 3. Install the extension in chrome and click the icon to configure your nop site address and security access token	
 4. Import/update/edit your product information on the aliexpress website	
 

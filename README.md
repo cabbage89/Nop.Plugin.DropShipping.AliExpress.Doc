@@ -30,7 +30,7 @@ Support for versions after `4.1`, because it is built on .NET CORE, this plugin 
 
 How to support `4.1`, `4.2`, `4.3`? 
 
-Modify plugin.json in the plugin source code  
+Modify `plugin.json` in the plugin source code  
 
 ```json
 "SupportedVersions": [ "4.20" ],  //your nopCommerce Version

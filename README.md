@@ -24,6 +24,19 @@ This plugin provides a Chrome extension. When you are on [https://sale.aliexpres
 - Product information contains seo related information, product attributes, features, product descriptions, product pictures	
 - When your store already has AliExpress products in front of you, it will show `Update`, `Edit`, `View` buttons	
 
+**Supported version**
+
+Support for versions after `4.1`, because it is built on .NET CORE, this plugin was successfully tested on `4.4`.  
+
+How to support `4.1`, `4.2`, `4.3`? 
+
+Modify plugin.json in the plugin source code  
+
+```json
+"SupportedVersions": [ "4.20" ],  //your nopCommerce Version
+```
+Then rebuild in visual studio
+
 ### nopCommerce plugin configuration
 
 ![](Assets/ali2nop-config.gif)

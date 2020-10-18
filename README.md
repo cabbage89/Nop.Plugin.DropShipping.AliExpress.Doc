@@ -26,16 +26,9 @@ This plugin provides a Chrome extension. When you are on [https://sale.aliexpres
 
 **Supported version**
 
-Support for versions after `4.3`, because it is built on .NET CORE and depend on `LinqToDB`, this plugin was successfully tested on `4.4`.  
+4.2 (EF Core)
+4.3+ (LinqToDB)
 
-How to support `4.3`? 
-
-Modify `plugin.json` in the plugin source code  
-
-```json
-"SupportedVersions": [ "4.30" ],
-```
-Then rebuild in visual studio
 
 ### nopCommerce plugin configuration
 

@@ -26,8 +26,8 @@ This plugin provides a Chrome extension. When you are on [https://sale.aliexpres
 
 **Supported version**
 
-4.2 (EF Core)
-4.3+ (LinqToDB)
+- nopCommerce 4.2 (EF Core)
+- nopCommerce 4.3+ (LinqToDB)
 
 
 ### nopCommerce plugin configuration

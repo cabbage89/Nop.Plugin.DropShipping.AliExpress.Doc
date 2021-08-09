@@ -1,6 +1,8 @@
+[在codester上购买](https://www.codester.com/items/25824/dropshipping-aliexpress-nopcommerce-plugin?ref=Tang)
+
 ### 插件功能介绍
 
-此插件提供一个Chrome扩展，当您在[https://sale.aliexpress.com/](https://sale.aliexpress.com/)上时，页面上将会显示几个功能按钮。他们可以将该页面的产品信息快速导入到您的nopCommerce店铺中。
+此插件提供一个Chrome扩展，当您在[https://sale.aliexpress.com/](https://sale.aliexpress.com/)上时，页面上将会显示几个功能按钮。他们可以将该页面的产品信息快速导入到您的nopCommerce店铺中。它适用于nopCommerce Dropshipping模式
 
 **使用步骤：**
 
@@ -48,3 +50,5 @@
 ![](Assets/spec-attrs.png)
 ![](Assets/sku-props-img.png)
 ![](Assets/product-desc.png)
+
+[在codester上购买](https://www.codester.com/items/25824/dropshipping-aliexpress-nopcommerce-plugin?ref=Tang)

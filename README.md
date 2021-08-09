@@ -1,4 +1,4 @@
-[**Buy on CodeSter**](https://www.codester.com/items/25824/dropshipping-aliexpress-nopcommerce-plugin)
+[**Buy on CodeSter**](https://www.codester.com/items/25824/dropshipping-aliexpress-nopcommerce-plugin?ref=Tang)
 
 ### Introduction to the plug-in function
 
@@ -57,4 +57,4 @@ This plugin provides a Chrome extension. When you are on [https://sale.aliexpres
 ![](Assets/sku-props-img.png)
 ![](Assets/product-desc.png)
 
-[**Buy on CodeSter**](https://www.codester.com/items/25824/dropshipping-aliexpress-nopcommerce-plugin)
+[**Buy on CodeSter**](https://www.codester.com/items/25824/dropshipping-aliexpress-nopcommerce-plugin?ref=Tang)

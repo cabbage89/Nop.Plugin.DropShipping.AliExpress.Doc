@@ -58,3 +58,8 @@ This plugin provides a Chrome extension. When you are on [https://sale.aliexpres
 ![](Assets/product-desc.png)
 
 [**Buy on CodeSter**](https://www.codester.com/items/25824/dropshipping-aliexpress-nopcommerce-plugin?ref=Tang)
+
+
+**Other recommended plugins**
+
+[nopCommerce ProAdminUI](https://github.com/cabbage89/Nop.Plugin.Administration.ProAdminUI.Doc)
